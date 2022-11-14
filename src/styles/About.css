@@ -1,0 +1,98 @@
+ .h1{
+  text-align: center;
+ }
+ .Disp_values:after {
+  content: "";
+  display: table;
+  clear: both;
+
+ }
+
+ .corru{
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: justify;
+ }
+ .column{
+  text-align: center;
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px;
+ }
+ .column1{
+  text-align: center;
+  float: left;
+  width: 33%;
+  padding: 10px;
+  height: 300px;
+ }
+ * {
+  box-sizing: border-box;
+}
+
+.Disp_para{
+  text-align:center;
+}
+ .ab{
+  text-align: center;
+ }
+
+ .list{
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+ }
+  .about{
+    background: url('login.jpg') no-repeat;
+    background-size:cover;
+    width: 1380px;
+    height: 1700px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+  }
+  .aboutTop{
+       
+    margin: 30px;
+    height: 1700px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+  }
+  
+  .para{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .img{
+    align-items: center;
+  }
+  
+  /* filter: blur(8px);
+  -webkit-filter: blur(8px);*/
+  /*.aboutBottom {
+    display: flex;
+    flex-direction: column;
+    height: 55%;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .aboutBottom p {
+    width: 1200px;
+  }
+  
+  .about .aboutBottom h1 {
+    font-weight: 400;
+    font-size: 70px;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+  }*/
+  
